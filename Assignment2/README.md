@@ -29,6 +29,6 @@ location : /usr/src/linux/linux-5.15.120/kernel/
 location : /usr/src/linux/linux-5.15.120/kernel/
 
 
-7. Makefile : Makefile for compiling the modified or added kernel source code.
+7. Makefile : For compile the modified or added kernel source code.
 
 location : /usr/src/linux/linux-5.15.120/kernel/
