@@ -1,6 +1,8 @@
 ## Assignment4
 
 
+assignment4.c needs to be compiled using the attached Makefile.
+
 1. assignment4.c : Simulating Page Replacement Algorithms (Optimal, FIFO, LRU, Second-Chance) for arbitrary virtual addresses.
 
 2. Makefile : For compile assignment4.c.
